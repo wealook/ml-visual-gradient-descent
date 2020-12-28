@@ -18,3 +18,5 @@
     ` python visualize_adagrad.py ` 
 + #### RMSProp
      ` python visualize_adagrad.py ` 
++ #### Adam
+     ` python visualize_adam.py ` 
