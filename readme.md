@@ -6,9 +6,9 @@
  seaborn 
  ipywidgets` 
  ### 运行 **.py即可查看效果
-+ ####原始的梯度下降算法
++ #### 原始的梯度下降算法
     ` python visualize_adagrad.py ` 
-+ ####带动量的梯度下降算法
++ #### 带动量的梯度下降算法
      ` python visualize_sgd_momentum.py ` 
 + ##### 带惯性的梯度下降算法
     ` python visualize_sgd_inertia.py ` 
